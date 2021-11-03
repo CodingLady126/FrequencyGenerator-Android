@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527897970901",
+    "firebase_url": "https://frequencegenerator-default-rtdb.firebaseio.com",
+    "project_id": "frequencegenerator",
+    "storage_bucket": "frequencegenerator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527897970901:android:a4204ac32d0c49b3d07a5c",
+        "android_client_info": {
+          "package_name": "com.alexey.tonegenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527897970901-hb31e1mddior2mmalfj18g9ojnisfqs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVTOMIDMJ37D2_W1eQil23CpCkqYWxo3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527897970901-hb31e1mddior2mmalfj18g9ojnisfqs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
